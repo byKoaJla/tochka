@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tochka</string>
+
+    <!--Login screen -->
+    <string name="login_title">Log in</string>
+    <string name="credentials">Enter your credentials to access you account</string>
+    <string name="login_with_google">Log in with Google</string>
+    <string name="or_other">Or</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="button_login">Log in</string>
+    <string name="dont_have_account">Do not have account?</string>
+    <string name="sign_up_link">Sign up</string>
+    <!--Login screen -->
+</resources>
